@@ -1,0 +1,33 @@
+/cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/objs/libawt_xawt/awt_Font.o: \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/sun/awt/awt_Font.c \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/sun/awt/awt_p.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/sun/awt/awt.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/javavm/export/jvm.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/javavm/export/jni.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/include/linux/jni_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/javavm/export/jvm_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/javavm/export/classfile_constants.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/common/jni_util.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/include/jni.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/common/jlong.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/common/jlong_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/debug/debug_util.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/debug/debug_mem.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/debug/debug_util.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/debug/debug_assert.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/debug/debug_trace.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/sun/awt/awt_util.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/common/gdefs.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/common/gdefs_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/sun/awt/color.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/sun/awt/colordata.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/image/cvutils/img_globals.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/gensrc_headers/java_awt_Component.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/gensrc_headers/java_awt_Font.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/gensrc_headers/java_awt_FontMetrics.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/gensrc_headers/sun_awt_X11GraphicsEnvironment.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/sun/awt/awt_Font.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/gensrc_headers/java_awt_Dimension.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/sun/awt/multi_font.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/java2d/Disposer.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/common/jlong.h

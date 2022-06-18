@@ -1,0 +1,9 @@
+/cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/objs/libjava/java_props_md.o: \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/java/lang/java_props_md.c \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/java/lang/locale_str.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/java/lang/java_props.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/common/jni_util.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/include/jni.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/include/linux/jni_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/common/jlong.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/common/jlong_md.h

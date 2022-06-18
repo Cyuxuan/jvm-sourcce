@@ -1,0 +1,30 @@
+/cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/objs/libfontmanager/freetypeScaler.o: \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/font/freetypeScaler.c \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/include/jni.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/include/linux/jni_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/common/jni_util.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/common/jlong.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/common/jlong_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/common/jlong.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/font/sunfontids.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/gensrc_headers/sun_font_FreetypeFontScaler.h \
+ /usr/include/freetype2/ft2build.h \
+ /usr/include/freetype2/freetype/config/ftheader.h \
+ /usr/include/freetype2/freetype/freetype.h \
+ /usr/include/freetype2/freetype/config/ftconfig.h \
+ /usr/include/freetype2/freetype/config/ftoption.h \
+ /usr/include/freetype2/freetype/config/ftstdlib.h \
+ /usr/include/freetype2/freetype/fttypes.h \
+ /usr/include/freetype2/freetype/ftsystem.h \
+ /usr/include/freetype2/freetype/ftimage.h \
+ /usr/include/freetype2/freetype/fterrors.h \
+ /usr/include/freetype2/freetype/ftmoderr.h \
+ /usr/include/freetype2/freetype/fterrdef.h \
+ /usr/include/freetype2/freetype/ftglyph.h \
+ /usr/include/freetype2/freetype/ftbbox.h \
+ /usr/include/freetype2/freetype/ftsizes.h \
+ /usr/include/freetype2/freetype/ftoutln.h \
+ /usr/include/freetype2/freetype/ftsynth.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/font/fontscaler.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/font/fontscalerdefs.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/font/AccelGlyphCache.h

@@ -1,0 +1,15 @@
+/cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/objs/libzip/Inflater.o: \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/java/util/zip/Inflater.c \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/common/jlong.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/common/jlong_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/include/jni.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/include/linux/jni_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/javavm/export/jvm.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/javavm/export/jni.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/javavm/export/jvm_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/javavm/export/classfile_constants.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/common/jni_util.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/common/jlong.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/java/util/zip/zlib-1.2.5/zlib.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/java/util/zip/zlib-1.2.5/zconf.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/gensrc_headers/java_util_zip_Inflater.h

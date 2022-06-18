@@ -1,0 +1,34 @@
+/cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/objs/libjdwp/StackFrameImpl.o: \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/back/StackFrameImpl.c \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/back/util.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/back/log_messages.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/back/vm_interface.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/include/jni.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/include/linux/jni_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/javavm/export/jvm.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/javavm/export/jni.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/javavm/export/jvm_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/javavm/export/classfile_constants.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/include/jvmti.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/include/jni.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/back/JDWP.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/gensrc_jdwp_headers/JDWPCommands.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/back/util_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/back/error_messages.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/back/debugInit.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/npt/npt.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/npt/npt_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/npt/utf.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/npt/utf_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/back/StackFrameImpl.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/back/inStream.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/back/transport.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/include/jdwpTransport.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/back/FrameID.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/back/outStream.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/back/threadControl.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/back/stepControl.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/back/eventFilter.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/back/eventHandler.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/back/bag.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/back/invoker.h

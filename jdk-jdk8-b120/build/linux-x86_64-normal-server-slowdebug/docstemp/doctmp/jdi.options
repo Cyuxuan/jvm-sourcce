@@ -1,0 +1,9 @@
+-XDignore.symbol.file=true -quiet -use -keywords -Xdoclint:none -Xprofilespath /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/make/profile-rtjar-includes.txt -Xdocrootparent http://download.oracle.com/javase/7/docs
+-sourcepath '/cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/classes:/cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/impsrc:/cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/gensrc:/cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/gendocsrc_rmic:/cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/classes:/cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/windows/classes:/cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/doc/stub'
+-encoding 'ascii'
+-overview '/cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/classes/jdi-overview.html'
+-doctitle 'Java&trade; Debug Interface'
+-windowtitle 'Java Debug Interface b00'
+-header '<strong>Java Debug Interface</strong><br><strong>DRAFT&nbsp;internal-b00</strong>'
+-bottom '<font size="-1"><br> Copyright &#x00a9; 1999, 2022, Oracle and/or its affiliates.  All rights reserved.</font><br><strong>DRAFT&nbsp;internal-b00</strong>'
+-linkoffline '../../../../api' '/cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/docs/api/'

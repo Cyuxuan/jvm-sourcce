@@ -1,0 +1,10 @@
+resources/codepoint_zh_CN.properties
+resources/codepoint.properties
+resources/codepoint_ja.properties
+README_ja.html
+README.html
+com/sun/inputmethods/internal/codepointim/CodePointInputMethod.class
+com/sun/inputmethods/internal/codepointim/CodePointInputMethodDescriptor.class
+README_zh_CN.html
+CodePointIM.class
+resources/codepoint_zh_CN.properties resources/codepoint.properties resources/codepoint_ja.properties README_ja.html README.html README_zh_CN.html

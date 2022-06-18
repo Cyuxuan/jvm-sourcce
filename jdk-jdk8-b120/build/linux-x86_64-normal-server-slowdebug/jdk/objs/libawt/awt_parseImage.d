@@ -1,0 +1,23 @@
+/cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/objs/libawt/awt_parseImage.o: \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/image/awt_parseImage.c \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/image/awt_parseImage.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/include/jni.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/include/linux/jni_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/common/jni_util.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/common/jlong.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/common/jlong_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/image/imageInitIDs.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/gensrc_headers/java_awt_Transparency.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/gensrc_headers/java_awt_image_BufferedImage.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/gensrc_headers/sun_awt_image_IntegerComponentRaster.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/gensrc_headers/sun_awt_image_ImagingLib.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/gensrc_headers/java_awt_color_ColorSpace.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/sun/awt/awt_Mlib.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/medialib/awt_ImagingLib.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/medialib/mlib_types.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/medialib/mlib_status.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/medialib/mlib_image_types.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/medialib/mlib_image_get.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/medialib/safe_alloc.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/sun/java2d/j2d_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/medialib/safe_math.h

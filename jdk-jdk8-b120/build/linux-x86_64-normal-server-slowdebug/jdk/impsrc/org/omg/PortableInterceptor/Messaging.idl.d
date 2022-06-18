@@ -1,0 +1,2 @@
+/cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/corba/gensrc/org/omg/Messaging/SyncScopeHelper.java: /cyuxuan/java/jvm-source/jdk-jdk8-b120/corba/src/share/classes/org/omg/PortableInterceptor/Messaging.idl
+/cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/corba/gensrc/org/omg/Messaging/SYNC_WITH_TRANSPORT.java: /cyuxuan/java/jvm-source/jdk-jdk8-b120/corba/src/share/classes/org/omg/PortableInterceptor/Messaging.idl

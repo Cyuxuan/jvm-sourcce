@@ -1,0 +1,33 @@
+/cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/objs/libawt_headless/X11Color.o: \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/sun/awt/X11Color.c \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/sun/awt/awt_p.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/sun/awt/awt.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/javavm/export/jvm.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/javavm/export/jni.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/include/linux/jni_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/javavm/export/jvm_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/javavm/export/classfile_constants.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/common/jni_util.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/include/jni.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/common/jlong.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/common/jlong_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/debug/debug_util.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/debug/debug_mem.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/debug/debug_util.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/debug/debug_assert.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/debug/debug_trace.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/sun/awt/awt_util.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/sun/awt/color.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/sun/awt/colordata.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/image/cvutils/img_globals.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/common/gdefs.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/common/gdefs_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/gensrc_headers/java_awt_Color.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/gensrc_headers/java_awt_SystemColor.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/gensrc_headers/java_awt_color_ColorSpace.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/gensrc_headers/java_awt_Transparency.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/gensrc_headers/java_awt_image_DataBuffer.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/image/cvutils/img_colors.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/image/imageInitIDs.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/native/sun/awt/image/dither.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/native/sun/awt/colordata.h

@@ -1,0 +1,20 @@
+/cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/objs/jhat_objs/main.o: \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/bin/main.c \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/bin/defines.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/bin/java.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/include/jni.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/build/linux-x86_64-normal-server-slowdebug/jdk/include/linux/jni_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/javavm/export/jvm.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/javavm/export/jni.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/javavm/export/jvm_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/javavm/export/classfile_constants.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/bin/emessages.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/bin/java_md.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/bin/manifest_info.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/bin/jli_util.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/solaris/bin/java_md_solinux.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/bin/jli_util.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/bin/manifest_info.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/bin/version_comp.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/bin/wildcard.h \
+ /cyuxuan/java/jvm-source/jdk-jdk8-b120/jdk/src/share/bin/splashscreen.h
